@@ -1,7 +1,7 @@
 package one.digitalinnovation.digionebank
 
 class Pessoa {
-    var nome: String = "gabriela"  //Created a class person
+    var nome: String = "gabriel"  //Created a class person
 
     var cpf: String = "123.123.123.11"
         private set
