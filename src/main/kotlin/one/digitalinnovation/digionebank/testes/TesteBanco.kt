@@ -14,4 +14,5 @@ fun main() {
     println(banco2.info())
     //println(banco2.nome)
     //println(banco2.numero)
+    //Updated bank test class
 }
