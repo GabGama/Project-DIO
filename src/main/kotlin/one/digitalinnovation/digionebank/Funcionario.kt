@@ -1,5 +1,5 @@
 package one.digitalinnovation.digionebank
-//
+
 abstract class Funcionario(
      nome: String,
      cpf: String,
